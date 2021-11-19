@@ -1,11 +1,11 @@
-# @vitejs/plugin-less-global
+# vitejs/plugin-less-global
 
 vitejs全局less注入
 
 ## 安装
 
 ```
-npm i @vitejs/plugin-less-global -S
+npm i vitejs/plugin-less-global -S
 ```
 
 ## 使用
