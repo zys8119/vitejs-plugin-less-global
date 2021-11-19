@@ -1,5 +1,5 @@
 {
-  "name": "vitejs/plugin-less-global",
+  "name": "vitejs-plugin-less-global",
   "version": "0.0.1",
   "description": "vitejs全局less注入",
   "main": "index.ts",
