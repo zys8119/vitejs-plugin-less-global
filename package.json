@@ -1,8 +1,9 @@
 {
   "name": "vitejs-plugin-less-global",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vitejs全局less注入",
   "main": "dist/index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "start": "gulp default",
     "build": "npm start",
