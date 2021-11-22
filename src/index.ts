@@ -8,9 +8,8 @@ import {
 import {readFileSync} from "fs"
 import {resolve} from "path"
 
-
-export default (options:string[])=>{
-    const RelationshipFile = {};
+const Index = (options:string[])=>{
+    const RelationshipFile:any = {};
     return <PluginOption>{
         enforce:"pre",
         name:"vue文件lees全局变量注入插件",
@@ -38,3 +37,5 @@ export default (options:string[])=>{
         }
     }
 }
+
+export default Index
